@@ -72,8 +72,17 @@ body {
     padding: 0 0 80px 0;
 }
 
+.contacto {
+    color: #000000;
+}
+
+.container {
+        color: #000000;
+}
+
 .contenedor {
     padding: 80px 0px;
+    color: #000000;
 }
 
 /* Tarjetas */
