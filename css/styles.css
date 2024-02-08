@@ -157,15 +157,28 @@ body {
     width: 40%;
 }
 
-/* Footer */
+/*
 footer {
-    background: #f5576c;
+    background: #333;
     color: #fff;
 }
 
-.form {
+*/
+
+
+footer {
+    background: #f5576c;
+    color: #333;
+}
+
+
+.form{
     display: flex;
     flex-wrap: wrap;
+}
+
+.nombre {
+    color: #000;
 }
 
 .input {
@@ -212,6 +225,14 @@ input[type="button"]:hover {
     cursor: pointer;
     color: tomato;
     background: #fff;
+}
+
+input[type="submit"]:hover {
+    background-color: #555; 
+}
+
+label {
+    color: #000; 
 }
 
 form {
